@@ -1,0 +1,14 @@
+{
+  "name": "brewTime",
+  "version": "1.0.0",
+  "description": "BrewTime Lambda Function",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steven Tomlinson",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mqtt": "^2.15.3",
+    "sync-request": "^5.0.0"
+  }
+}
